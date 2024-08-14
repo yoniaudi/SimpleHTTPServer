@@ -3,7 +3,6 @@ C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\bin\Debug\net8.0-windows\Sim
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\bin\Debug\net8.0-windows\SimpleHTTPServer.runtimeconfig.json
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\bin\Debug\net8.0-windows\SimpleHTTPServer.dll
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\bin\Debug\net8.0-windows\SimpleHTTPServer.pdb
-C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.ConnectionForm.resources
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.csproj.GenerateResource.cache
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.AssemblyInfoInputs.cache
@@ -14,3 +13,5 @@ C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\ref
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.pdb
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.genruntimeconfig.cache
 C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\ref\SimpleHTTPServer.dll
+C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.ServerForm.resources
+C:\Development\C#\SimpleHTTPServer\SimpleHTTPServer\obj\Debug\net8.0-windows\SimpleHTTPServer.sourcelink.json

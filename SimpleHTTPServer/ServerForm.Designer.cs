@@ -1,6 +1,6 @@
 ﻿namespace SimpleHTTPServer
 {
-    partial class ConnectionForm
+    partial class ServerForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -104,7 +104,6 @@
             Controls.Add(labelServerPort);
             Controls.Add(buttonStopServer);
             Controls.Add(buttonStartServer);
-            MaximizeBox = false;
             Name = "ConnectionForm";
             Text = "Simple HTTP Server";
             ResumeLayout(false);

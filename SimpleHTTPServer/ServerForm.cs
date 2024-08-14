@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace SimpleHTTPServer
 {
-    public partial class ConnectionForm : Form
+    public partial class ServerForm : Form
     {
         private Socket? m_HttpServer = null;
         private Thread? m_Thread = null;
@@ -13,7 +13,7 @@ namespace SimpleHTTPServer
         private bool m_IsServerRunning = false;
         private ManualResetEvent m_StopEvent = new ManualResetEvent(false);
 
-        public ConnectionForm()
+        public ServerForm()
         {
             InitializeComponent();
             FormBorderStyle = FormBorderStyle.FixedSingle;
